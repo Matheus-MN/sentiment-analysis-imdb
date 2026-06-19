@@ -49,4 +49,4 @@ https://colab.research.google.com/drive/1YxCMQsranNMXKSmE0A5h78AHXrRkxnDA?usp=sh
 
 ## 👨‍💻 Autor
 
-Matheus Marinho
+Matheus Marinho N.
